@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/sarahsalam">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=3759be&fontSize=54&height=90&width=474&text=hi%2C%20i'm%20sara" alt="hi, i&#39;m sara" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=474&text=hi%2C%20i'm%20sara" alt="hi, i&#39;m sara" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=445&height=44&lines=i%20am%20a%20full-stack%20developer" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=445&height=44&lines=i%20am%20a%20full-stack%20developer" alt="Typing headlines" />
 </p>
 
 ### 🛠️ Tech Stack
@@ -51,14 +51,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=sarahsalam&show_icons=true&theme=tokyonight&title_color=3759be&icon_color=3759be&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=sarahsalam&layout=compact&theme=tokyonight&title_color=3759be&icon_color=3759be&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=sarahsalam&show_icons=true&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=sarahsalam&layout=compact&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarahsalam&bg_color=00000000&color=3759be&line=3759be&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarahsalam&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
